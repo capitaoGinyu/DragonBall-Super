@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../formulario"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "formulario"
+	}
+}
